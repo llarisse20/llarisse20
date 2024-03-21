@@ -2,7 +2,7 @@
 
 ### Olá, Sou a Larisse!! 👋
 
--  📘 Atualmente estou no 4 semestre do curso de Análise e Desenvolvimento de Sistemas.
+-  📘 Atualmente estou no 3 semestre do curso de Análise e Desenvolvimento de Sistemas.
 -  👩‍💻 Trabalho há 2 anos na área da Logística e Transporte. 
 -  😊 E estou em busca do meu primeiro estágio na área de tecnologia. 
 
