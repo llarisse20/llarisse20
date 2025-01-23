@@ -3,7 +3,7 @@
 ### Olá, Sou a Larisse!! 👋
 
 -  📘 Graduada em Análise e Desenvolvimento de Sistemas.
--  👩‍💻 Trabalho há 2 anos na área da Logística e Importaçao.   
+-  👩‍💻 Trabalho há 3 anos na área da Logística e Comercio Exterior.    
 
 
 <div align="center">  
